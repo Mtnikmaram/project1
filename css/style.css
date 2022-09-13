@@ -14,9 +14,6 @@ header {
 #home {background-image: url('https://img.freepik.com/free-photo/social-media-audience-crowd-filming-through-smartphones_53876-128944.jpg?w=740&t=st=1662287919~exp=1662288519~hmac=51a9eedb5431dd6ed1f1c435fb7160bca74829586999c41e029269d040f8773e');
         height: 100px;
 }
-a {
-    text-align: left;
-}
 nav {
     list-style: none;
     text-align: center;
@@ -25,10 +22,10 @@ nav {
 }
 nav a {
     font-size: 1.2em;
-  line-height: 40px;
-  height: 40px;
-  display: inline-block;
-  margin-left: 2.5%;
+    line-height: 40px;
+     height: 40px;
+    display: inline-block;
+    margin-left: 2.5%;
 }
 nav a:hover {
     background-color: #fff;
@@ -39,15 +36,43 @@ nav a:hover {
 	height: 50vh;
 	background: center 75% /cover no-repeat;
 }
+.apple {
+    float: center;
+    margin-left:45%;
+    margin-bottom: 5px;
+    padding: 2px;
+}
 .float-img {
     float: center;
-    margin-right: 10px;
+    margin-left:12.5%;
     margin-bottom: 5px;
     border: solid black 1px;
     padding: 2px;
+    
+}
+.inline-image {
+    margin: 0 auto;
+    width: auto;
+    max-width: 728px;
+    margin-bottom: 10px;
+    height: auto;
+    display: block;
+   }
+.border-inline {
+    text-align: justify;
+    width: 720px;
+    margin-left: 25%;
+    
+}
+.text-uppercase {
+    text-transform: uppercase;
 }
 footer {
-    border: solid black 2px;
-    padding: 2px;
     background-color: burlywood;
-}
+    padding: 1em;
+    text-align: center;
+    width: 100%;
+    bottom: 0;
+    right: 0;
+    text-align: center;
+  }
