@@ -11,10 +11,11 @@ body {
 header {
     background-color: black;
 }
-#home {background-image: url('https://img.freepik.com/free-photo/social-media-audience-crowd-filming-through-smartphones_53876-128944.jpg?w=740&t=st=1662287919~exp=1662288519~hmac=51a9eedb5431dd6ed1f1c435fb7160bca74829586999c41e029269d040f8773e');
+#home {background-image: url('../image/header.webp');
         height: 100px;
 }
 nav {
+    
     list-style: none;
     text-align: center;
     padding: 0;
