@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&family=Oswald&display=swap');
 body {
 	font-family: 'Open Sans', Arial, sans-serif;
   margin: 0;
@@ -6,7 +7,7 @@ body {
 .text-center {
     color:black;
     text-align: center;
-    font-family: 'Merienda One', 'Brush Script MT', cursive;
+    
 }
 header {
     background-color: black;
@@ -37,6 +38,10 @@ nav a:hover {
 	height: 50vh;
 	background: center 75% /cover no-repeat;
 }
+#apple-logo{
+    margin-left: 45%;
+     
+}
 .apple {
     float: center;
     margin-left:45%;
@@ -59,12 +64,7 @@ nav a:hover {
     height: auto;
     display: block;
    }
-.border-inline {
-    text-align: justify;
-    width: 720px;
-    margin-left: 25%;
-    
-}
+  
 .text-uppercase {
     text-transform: uppercase;
 }
@@ -76,4 +76,10 @@ footer {
     bottom: 0;
     right: 0;
     text-align: center;
+  }
+  #welcome{
+    text-align: center;
+    width: 720px;
+    margin: 0 auto;
+    font-family: 'Merienda One', 'Brush Script MT', cursive;
   }
