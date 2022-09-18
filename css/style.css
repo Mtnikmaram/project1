@@ -43,13 +43,13 @@ nav a:hover {
      
 }
 .apple {
-    float: center;
+    
     margin-left:45%;
     margin-bottom: 5px;
     padding: 2px;
 }
 .float-img {
-    float: center;
+    
     margin-top: 5px;
     margin-bottom: 5px;
     border: solid black 1px;
