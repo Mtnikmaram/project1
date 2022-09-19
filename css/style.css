@@ -87,16 +87,26 @@ footer {
     width: 100%;
     background-color:  rgb(219, 244, 245);
   }
-  tr {
+  #sumsung-table tr {
 	display: grid;
 	grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
 }
 
-tr, th, td {
+#sumsung-table tr, th, td {
 	text-align: center;
 }
 
-th, td {
+#sumsung-table th, td {
 	border: 1px solid gray;
 	padding: 1px;
+}
+#contact {
+  border: none;
+  margin-bottom: 50px;
+  margin: 0 auto;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#find {
+  background-color: black;
+  color: #fff;
 }
