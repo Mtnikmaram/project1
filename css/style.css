@@ -29,8 +29,8 @@ nav a {
     margin-left: 2.5%;
 }
 nav a:hover {
-    background-color: #fff;
-    color: #4a4a4f;
+    color: #f80000;
+    font-size: 200%;
   }
   
 .page-header {
