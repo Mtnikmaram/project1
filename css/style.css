@@ -110,3 +110,21 @@ footer {
   background-color: black;
   color: #fff;
 }
+@media screen and (max-width: 1200px) {
+
+  .inline-image {
+      max-width: 100%
+  }
+}
+  @media screen and (max-width: 950px) {
+
+    .inline-image {
+        max-width: 100%
+    }
+  }
+    @media screen and (max-width: 450px) {
+
+      .inline-image {
+          max-width: 100%
+      }
+    }
