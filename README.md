@@ -54,3 +54,11 @@ This page is all about samsung mobile featurs
 
 This page is for the ways that you can contact us
 
+# lighthouse
+
+Lighthouse is a feature of Google Chrome developer tools and is used to assess the performance of the website and its features.
+
+![lighthouse](image/lighthouse.png)
+
+
+
