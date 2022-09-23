@@ -10,9 +10,9 @@ This website is made up of the following sections:
 3.	samsung
 4.  contact us
 
-#section 1
+# section 1
 
-##home
+## home
 ![home](image/home.png)
 
 In the top section you can se the header links
@@ -38,17 +38,17 @@ In here you can find our social media that you can access.
 
 This page is about the new iphone. you will find some information of the new iphone 
 
-#section 3
+# section 3
 
-##samsung 
+## samsung 
 
 ![samsung-page](image/samsung-page.png)
 
 This page is all about samsung mobile featurs 
 
-#section 4
+# section 4
 
-##contact
+## contact
 
 ![contact-page](image/contact-page.png)
 
