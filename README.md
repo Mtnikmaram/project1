@@ -30,9 +30,9 @@ In the bottom of the page is the footer.
 
 In here you can find our social media that you can access.
 
-#section 2
+# section 2
 
-##iphone
+## iphone
 
 ![iphone-page](image/iphone-page.png)
 
