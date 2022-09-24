@@ -62,3 +62,16 @@ Lighthouse is a feature of Google Chrome developer tools and is used to assess t
 
 
 
+# HTML and CSS Validation
+
+After fixing some errors and also some unnecessary sections in index.html or style elements in style.css , the site eventually passed the W3C Validation.
+
+![htmlvalidate](image/htmlvalidte.png)
+![cssvalidate](image/cssvalidat.png)
+
+# credits
+
+The contect of the the site and the iamges is from gsmarena but i styled it my self 
+
+I used google font for my site and and find the logo of my images in google search.
+I have got some ideas from love running and coffee coders project but i tried to write the codes by myself.
