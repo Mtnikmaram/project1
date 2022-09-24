@@ -32,7 +32,7 @@ In here you can find our social media that you can access.
 
 # section 2
 
-## iphone
+## Iphone
 
 ![iphone-page](image/iphone-page.png)
 
@@ -40,7 +40,7 @@ This page is about the new iphone. you will find some information of the new iph
 
 # section 3
 
-## samsung 
+## Samsung
 
 ![samsung-page](image/samsung-page.png)
 
@@ -66,7 +66,8 @@ Lighthouse is a feature of Google Chrome developer tools and is used to assess t
 
 After fixing some errors and also some unnecessary sections in index.html or style elements in style.css , the site eventually passed the W3C Validation.
 
-![htmlvalidate](image/htmlvalidte.png)
+![htmlvalidate](image/htmlvalidate.png)
+
 ![cssvalidate](image/cssvalidat.png)
 
 # credits
