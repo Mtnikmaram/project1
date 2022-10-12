@@ -11,7 +11,7 @@ body {
 header {
     background-color: black;
 }
-#home {background-image: url('../image/header.webp');
+#home {background-image: url('assets/image/header.webp');
         height: 150px;
 }
 nav {
