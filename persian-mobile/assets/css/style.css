@@ -11,26 +11,24 @@ body {
 header {
     background-color: black;
 }
-#home {background-image: url('assets/image/header.webp');
+#home {background-image: url('../image/header.webp');
         height: 150px;
 }
 nav {
-    
     list-style: none;
     text-align: center;
     padding: 0;
     margin: 0;
 }
 nav a {
-    font-size: 1.2em;
+    font-size:2.2em;
     line-height: 50px;
-     height: 100px;
-    display: inline-block;
+    display:inline;
     margin-left: 2.5%;
-}
+  }
 nav a:hover {
     color: #f80000;
-    font-size: 200%;
+    font-size: 300%;
   }
   
 .page-header {
@@ -43,10 +41,10 @@ nav a:hover {
 	width: 50%;
 	margin: 2%;
 	background-color: rgb(172, 171, 236);
-    position: relative;
-    left: 25%;
-    top: 20px;
-    color:beige;
+  position: relative;
+  left: 25%;
+  top: 20px;
+  color:beige;
 }
 #logo {
   margin-left: 25%;
