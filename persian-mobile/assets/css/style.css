@@ -14,21 +14,17 @@ header {
 #home {background-image: url('../image/header.webp');
         height: 150px;
 }
-nav {
-    list-style: none;
-    text-align: center;
-    padding: 0;
-    margin: 0;
-}
 nav a {
-    font-size:2.2em;
-    line-height: 50px;
-    display:inline;
-    margin-left: 2.5%;
+   text-decoration: none;
+   color: rgb(8, 248, 28);
+   font-size:25px;
+   display: inline;
+   margin-left: 15%;
+   text-align: center;
   }
 nav a:hover {
-    color: #f80000;
-    font-size: 300%;
+    color: #000000;
+    font-size: 200%;
   }
   
 .page-header {
@@ -123,7 +119,7 @@ footer {
   }
     @media screen and (max-width: 450px) {
 
-      .inline-image {
-          max-width: 100%
+    .nav a {
+       font-size: small;
       }
     }
