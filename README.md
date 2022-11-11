@@ -1,7 +1,7 @@
 # Persian mobile 
 
 persian mobile is a site that you can find information of mobile teck.
-![my work](image/my-work.png)
+![my work](assets/css/image/my-work.png)
  
 This website is made up of the following sections:
 
@@ -13,20 +13,20 @@ This website is made up of the following sections:
 # section 1
 
 ## home
-![home](image/home.png)
+![home](assets/image/home.png)
 
 In the top section you can se the header links
-![header](image/header.png)
+![header](assets/image/header.png)
 
 After this section is the main section of the page. 
 
-![logo](image/logo.png)
+![logo](assets/image/logo.png)
 
 You can see iphone logo and samsung logo if you click on the logos you will access the page that is relevant to the logo
 
 In the bottom of the page is the footer.
 
-![footer](image/footer.png)
+![footer](assets/image/footer.png)
 
 In here you can find our social media that you can access.
 
@@ -34,7 +34,7 @@ In here you can find our social media that you can access.
 
 ## Iphone
 
-![iphone-page](image/iphone-page.png)
+![iphone-page](assets/image/iphone-page.png)
 
 This page is about the new iphone. you will find some information of the new iphone 
 
@@ -42,7 +42,7 @@ This page is about the new iphone. you will find some information of the new iph
 
 ## Samsung
 
-![samsung-page](image/samsung-page.png)
+![samsung-page](assets/image/samsung-page.png)
 
 This page is all about samsung mobile featurs 
 
@@ -50,7 +50,7 @@ This page is all about samsung mobile featurs
 
 ## contact
 
-![contact-page](image/contact-page.png)
+![contact-page](assets/image/contact-page.png)
 
 This page is for the ways that you can contact us
 
@@ -58,7 +58,7 @@ This page is for the ways that you can contact us
 
 Lighthouse is a feature of Google Chrome developer tools and is used to assess the performance of the website and its features.
 
-![lighthouse](image/lighthouse.png)
+![lighthouse](assets/image/lighthouse.png)
 
 
 
@@ -66,9 +66,9 @@ Lighthouse is a feature of Google Chrome developer tools and is used to assess t
 
 After fixing some errors and also some unnecessary sections in index.html or style elements in style.css , the site eventually passed the W3C Validation.
 
-![htmlvalidate](image/htmlvalidate.png)
+![htmlvalidate](assets/image/htmlvalidate.png)
 
-![cssvalidate](image/cssvalidat.png)
+![cssvalidate](assets/image/cssvalidat.png)
 
 # bugs
 I find some bugs in my code :
