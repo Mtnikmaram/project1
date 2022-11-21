@@ -105,21 +105,22 @@ footer {
   background-color: black;
   color: #fff;
 }
-@media screen and (max-width: 1200px) {
+@media screen and (min-width: 1200px) {
 
   .inline-image {
       max-width: 100%
   }
 }
-  @media screen and (max-width: 950px) {
+  @media screen and (min-width: 950px) {
 
     .inline-image {
-        max-width: 100%
+        min-width: 100%
     }
   }
-    @media screen and (max-width: 450px) {
-
+    @media screen and (min-width: 450px) {
+     
     .nav a {
+      display: flex;
        font-size: small;
       }
     }
