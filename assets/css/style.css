@@ -55,10 +55,10 @@ nav a:hover {
     padding: 2px;
     
 }
-.inline-image {
-  width: 50%;
+.inline-image img{
+  width: 75vw;
   margin-bottom: 10px;
-  margin: 0 auto;
+  margin: auto;
  }
   
 .text-uppercase {
@@ -67,7 +67,6 @@ nav a:hover {
 footer {
     background-color: rgb(243, 218, 184);
     padding: 1em;
-    width: 100%;
     bottom: 0;
     right: 0;
     text-align: center;
@@ -82,16 +81,16 @@ footer {
     width: 100%;
     background-color:  rgb(219, 244, 245);
   }
-  #sumsung-table tr {
+  /* #sumsung-table tr {
 	display: grid;
 	grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
-}
+} */
 
-#sumsung-table tr, th, td {
+#sumsung-table th, #sumsung-table td {
 	text-align: center;
 }
 
-#sumsung-table th, td {
+#sumsung-table th, #sumsung-table td {
 	border: 1px solid gray;
 	padding: 1px;
 }
@@ -105,19 +104,19 @@ footer {
   background-color: black;
   color: #fff;
 }
-@media screen and (min-width: 1200px) {
+/* @media screen and (max-width: 1200px) {
 
-  .inline-image {
-      max-width: 100%
+  .inline-image img{
+      max-width: 7vw;
   }
 }
-  @media screen and (min-width: 950px) {
+  @media screen and (max-width: 950px) {
 
-    .inline-image {
-        min-width: 100%
+    .inline-image img{
+        min-width: 7vw;
     }
-  }
-    @media screen and (min-width: 450px) {
+  } */
+    @media screen and (max-width: 450px) {
      
     .nav a {
       display: flex;
