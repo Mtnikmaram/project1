@@ -14,17 +14,20 @@ header {
 #home {background-image: url('../image/header.webp');
         height: 150px;
 }
-nav a {
+nav {
+  display: table;
+  margin: auto;
+}
+  nav a {
    text-decoration: none;
-   color: rgb(8, 248, 28);
-   font-size:25px;
-   display: inline;
-   margin-left: 15%;
+   color: rgb(6, 136, 16);
+    display: inline-block;
+   margin: auto;   
    text-align: center;
   }
 nav a:hover {
     color: #000000;
-    font-size: 200%;
+   font-weight: bold;
   }
   
 .page-header {
@@ -73,20 +76,15 @@ footer {
   }
   #welcome{
     text-align: center;
-    width: 100%;
-    margin: 0 auto;
+    width: 75vw;
+    margin: auto;
     font-family: 'Merienda One', 'Brush Script MT', cursive;
   }
   #sumsung-table {
     width: 100%;
     background-color:  rgb(219, 244, 245);
   }
-  /* #sumsung-table tr {
-	display: grid;
-	grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
-} */
-
-#sumsung-table th, #sumsung-table td {
+ #sumsung-table th, #sumsung-table td {
 	text-align: center;
 }
 
@@ -104,22 +102,28 @@ footer {
   background-color: black;
   color: #fff;
 }
-/* @media screen and (max-width: 1200px) {
-
-  .inline-image img{
-      max-width: 7vw;
-  }
+ @media screen and (max-width: 1200px) {
+  nav a {       
+    font-size:16px;
+    padding: 20px 15px;
+    }
+ 
 }
   @media screen and (max-width: 950px) {
 
-    .inline-image img{
-        min-width: 7vw;
-    }
-  } */
+   
+     nav a {       
+        font-size:13px;
+        padding: 15px;
+        }
+  } 
     @media screen and (max-width: 450px) {
      
-    .nav a {
-      display: flex;
-       font-size: small;
-      }
+    
+      nav a {  
+        display: block;     
+        font-size:12px;
+        padding: 10px;
+        }
+      
     }
