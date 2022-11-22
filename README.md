@@ -1,7 +1,7 @@
 # Persian mobile 
 
 persian mobile is a site that you can find information of mobile teck.
-![my work](assets/css/image/my-work.png)
+![my work](assets/image/my-work.png)
  
 This website is made up of the following sections:
 
