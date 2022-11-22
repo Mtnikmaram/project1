@@ -75,6 +75,7 @@ I find some bugs in my code :
 1-the most bug was using space in my file names of the images 
 2-i have forgotten to creat asset folder
 3-the nav bar was not in the write color 
+4-the display was not in form
 # credits
 
 The contect of the the site and the iamges is from gsmarena but i styled it my self 
