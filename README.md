@@ -73,6 +73,18 @@ This page is all about samsung mobile featurs
 
 This page is for the ways that you can contact us
 
+## Future Features
+ * I will make a my site to be a shopping site so that anyone how wants cn buy samrtphone and accesories
+ * I will add other brand to my site 
+
+ # Technologies Used
+* [HTML5]- provides the content and structure for the website.
+* [CSS] - provides the styling.
+* [visual studio code] I have wrote the code in this program
+* [Github] - used to host and edit the website.
+
+# Testing
+
 # lighthouse
 
 Lighthouse is a feature of Google Chrome developer tools and is used to assess the performance of the website and its features.
@@ -89,15 +101,32 @@ After fixing some errors and also some unnecessary sections in index.html or sty
 
 ![cssvalidate](assets/image/cssvalidat.png)
 
+## Responsiveness Test
+
+* The responsive design tests were carried out manually with [Google Chrome DevTools](https://developer.chrome.com/docs/devtools/) and [Responsive Design Checker](https://www.responsivedesignchecker.com/).
+
+|        | Galaxy S5 | iPhone 5 | iPad |  Display <1200px | Display >1200px |
+|--------|-----------|----------|------|------------------|-----------------|
+| Render | pass      | pass     | pass | pass             | pass            |
+| Links  | pass      | pass     | pass | pass             | pass            |
+| Images | pass      | pass     | pass | pass             | pass            |
+
+## Browser Compatibility
+
+persian mobile site was tested on the following browsers with no visible issues for the user. 
+Google Chrome and Mozilla Firefox. All the features was great.
+
 # bugs
 I find some bugs in my code :
-1-the most bug was using space in my file names of the images 
-2-i have forgotten to creat asset folder
-3-the nav bar was not in the write color 
-4-the display was not in form
+1-The most bug was using space in my file names of the images : so  i double check the codes 
+2-I have forgotten to creat asset folder : this part was told from the mentor
+3-The nav bar was not in the write color : I changed the color and the position
+4-The display was not in form : I search the web to fix the issue
+
 # credits
 
 The contect of the the site and the iamges is from gsmarena but i styled it my self 
 
 I used google font for my site and and find the logo of my images in google search.
+
 I have got some ideas from love running and coffee coders project but i tried to write the codes by myself.
