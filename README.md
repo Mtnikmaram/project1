@@ -8,19 +8,19 @@ persian mobile is a site that you can find information of mobile teck. <a href="
 This website is made up of the following sections:
 * [**Features**](<#features>)
 * [**Home**](<#home>)
-         * [header](<#header>)
-         * [logo](<#logo>)
-         * [Footer](<#footer>)
+   * [header](<#header>)
+   * [logo](<#logo>)
+   * [Footer](<#footer>)
 * [**Iphone**](<#Iphone>)
-         * [header](<#header>)
-         * [Footer](<#footer>)         
+   * [header](<#header>)
+   * [Footer](<#footer>)         
 * [**Samsung**](<#samsung>)
-         * [header](<#header>)
-         * [Footer](<#footer>)         
+   * [header](<#header>)
+   * [Footer](<#footer>)         
 
 * [**Contact us**](<#contact>)
-         * [header](<#header>)
-         * [Footer](<#footer>)         
+   * [header](<#header>)
+   * [Footer](<#footer>)         
 
 
 
