@@ -2,28 +2,45 @@
 
 persian mobile is a site that you can find information of mobile teck. <a href="https://mtnikmaram.github.io/project1/index.html" target="_blank" rel="noopener">persian mobile</a>
 ![my work](assets/image/my-work.png)
- 
-This website is made up of the following sections:
 
-1.	Home
-2.	iphone
-3.	samsung
-4.  contact us
+# Contents
+
+This website is made up of the following sections:
+* [**Features**](<#features>)
+* [**Home**](<#home>)
+         * [header](<#header>)
+         * [logo](<#logo>)
+         * [Footer](<#footer>)
+* [**Iphone**](<#Iphone>)
+         * [header](<#header>)
+         * [Footer](<#footer>)         
+* [**Samsung**](<#samsung>)
+         * [header](<#header>)
+         * [Footer](<#footer>)         
+
+* [**Contact us**](<#contact>)
+         * [header](<#header>)
+         * [Footer](<#footer>)         
+
+
+
 
 # section 1
 
 ## home
 ![home](assets/image/home.png)
-
+# header
 In the top section you can se the header links
 ![header](assets/image/header.png)
 
+# logo
 After this section is the main section of the page. 
 
 ![logo](assets/image/logo.png)
 
 You can see iphone logo and samsung logo if you click on the logos you will access the page that is relevant to the logo
 
+# footer
 In the bottom of the page is the footer.
 
 ![footer](assets/image/footer.png)
