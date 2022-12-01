@@ -118,10 +118,10 @@ Google Chrome and Mozilla Firefox. All the features was great.
 
 # bugs
 I find some bugs in my code :
-1-The most bug was using space in my file names of the images : so  i double check the codes 
-2-I have forgotten to creat asset folder : this part was told from the mentor
-3-The nav bar was not in the write color : I changed the color and the position
-4-The display was not in form : I search the web to fix the issue
+* The most bug was using space in my file names of the images : so  i double check the codes 
+* I have forgotten to creat asset folder : this part was told from the mentor
+* The nav bar was not in the write color : I changed the color and the position
+* The display was not in form : I search the web to fix the issue
 
 # credits
 
