@@ -13,11 +13,11 @@ This website is made up of the following sections:
    * [Footer](<#footer>)
 * [**Iphone**](<#Iphone>)
    * [header](<#header>)
-   *main content
+   * main content
    * [Footer](<#footer>)         
 * [**Samsung**](<#samsung>)
    * [header](<#header>)
-   *main content
+   * main content
    * [Footer](<#footer>)         
 
 * [**Contact us**](<#contact>)
