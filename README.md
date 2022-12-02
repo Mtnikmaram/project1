@@ -85,6 +85,19 @@ This page is for the ways that you can contact us
 
 # Testing
 
+# Deployment
+
+### **To deploy the project**
+The site was deployed to GitHub pages. The steps to deploy a site are as follows:
+  1. In the GitHub repository, navigate to the **Settings** tab.
+  2. Once in Settings, navigate to the **Pages** tab on the left hand side.
+  3. Under **Source**, select the branch to **master**, then click **save**.
+  4. Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
+
+![GitHub pages deployed image](assets/image/github-page.png)
+
+  The live link to the Github repository can be found here - https://github.com/Mtnikmaram/project1
+
 # lighthouse
 
 Lighthouse is a feature of Google Chrome developer tools and is used to assess the performance of the website and its features.
