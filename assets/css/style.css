@@ -8,12 +8,14 @@ body {
     text-align: center;
     
 }
+/*header*/
 header {
     background-color: black;
 }
 #home {background-image: url('../image/header.webp');
         height: 150px;
 }
+/*nav*/
 nav {
   display: table;
   margin: auto;
@@ -67,6 +69,7 @@ nav a:hover {
 .text-uppercase {
     text-transform: uppercase;
 }
+/*footer*/
 footer {
     background-color: rgb(243, 218, 184);
     padding: 1em;
@@ -102,6 +105,7 @@ footer {
   background-color: black;
   color: #fff;
 }
+/*screen sizeing*/
  @media screen and (max-width: 1200px) {
   nav a {       
     display: inline-block;
