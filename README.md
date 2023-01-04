@@ -8,80 +8,86 @@ persian mobile is a site that you can find information of mobile teck. <a href="
 This website is made up of the following sections:
 * [**Features**](<#features>)
  * [**Home**](<#home>)
-   * [header](<#header>)
-   * [logo](<#logo>)
+   * [Header](<#header>)
+   * [Logo](<#logo>)
    * [Footer](<#footer>)
- * [**Iphone**](<#Iphone>)
-   * [header](<#header>)
-   * main content
+ * [**Iphone**](<#iphone>)
+   * [Header](<#header>)
    * [Footer](<#footer>)         
  * [**Samsung**](<#samsung>)
-   * [header](<#header>)
-   * main content
+   * [Header](<#header>)
    * [Footer](<#footer>)         
 
  * [**Contact us**](<#contact>)
-   * [header](<#header>)
+   * [Header](<#header>)
    * [Footer](<#footer>)         
 
  * [**Future Features**](<#Future-Features>)
  * [**Testing**](<#testing>)
-
-*## home
+   *[lighthouse](<#lighthouse>)
+   *[HTML and CSS Validation](<#html-and-css-validation>)
+   *[Responsiveness Test](#responsiveness-test)
+   *[Browser Compatibility](<#browser-compatibility>)
+ *[**Deployment**](<#deployment>)
+ *[**bugs**](<#bugs>)
+ *[**credits**](<#credits>)
+## Home
+*### home
 ![home](assets/image/home.png)
-*# header
+## Header
+*### header
 In the top section you can se the header links
 ![header](assets/image/header.png)
-
-*# logo
+## Logo
+*### logo
 After this section is the main section of the page. 
 
 ![logo](assets/image/logo.png)
 
 You can see iphone logo and samsung logo if you click on the logos you will access the page that is relevant to the logo
-
-*# footer
+## Footer
+*### footer
 In the bottom of the page is the footer.
 
 ![footer](assets/image/footer.png)
 
 In here you can find our social media that you can access.
 
-
-*## Iphone
+## Iphone
+*### Iphone
 
 ![iphone-page](assets/image/iphone-page.png)
 
 This page is about the new iphone. you will find some information of the new iphone 
 
-
-*## Samsung
+## Samsung
+*### Samsung
 
 ![samsung-page](assets/image/samsung-page.png)
 
 This page is all about samsung mobile featurs 
 
 
-
-*## contact
+## Contact
+*### contact
 
 ![contact-page](assets/image/contact-page.png)
 
 This page is for the ways that you can contact us
-
-*## Future Features
+## Future Features
+*### Future Features
  * I will make a my site to be a shopping site so that anyone how wants cn buy samrtphone and accesories
  * I will add other brand to my site 
 
- *# Technologies Used
-* HTML5- provides the content and structure for the website.
-* CSS - provides the styling.
-* visual studio code - I have wrote the code in this program
-* Github - used to host and edit the website.
+# Technologies Used
+* [HTML5](https://html.spec.whatwg.org/) - provides the content and structure for the website.
+* [CSS](https://www.w3.org/Style/CSS/Overview.en.html) - provides the styling.
+* [Github](https://github.com/) - used to host and edit the website.
 
-*# Testing
+## Testing
+*### Testing
 
-  # lighthouse
+# lighthouse
 
 Lighthouse is a feature of Google Chrome developer tools and is used to assess the performance of the website and its features.
 
@@ -112,8 +118,8 @@ After fixing some errors and also some unnecessary sections in index.html or sty
 persian mobile site was tested on the following browsers with no visible issues for the user. 
 Google Chrome and Mozilla Firefox. All the features was great.
 
-# Deployment
-
+## Deployment
+*### Deployment
 ### **To deploy the project**
 The site was deployed to GitHub pages. The steps to deploy a site are as follows:
   1. In the GitHub repository, navigate to the **Settings** tab.
@@ -126,15 +132,16 @@ The site was deployed to GitHub pages. The steps to deploy a site are as follows
   The live link to the Github repository can be found here - https://github.com/Mtnikmaram/project1
 
 
-# bugs
+## bugs
+*### bugs
 I find some bugs in my code :
 * The most bug was using space in my file names of the images : so  i double check the codes 
 * I have forgotten to creat asset folder : this part was told from the mentor
 * The nav bar was not in the write color : I changed the color and the position
 * The display was not in form : I search the web to fix the issue
 
-# credits
-
+## credits
+*### credits
 The contect of the the site and the iamges is from gsmarena but i styled it my self 
 
 I used google font for my site and and find the logo of my images in google search.
