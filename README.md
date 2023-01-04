@@ -7,98 +7,81 @@ persian mobile is a site that you can find information of mobile teck. <a href="
 
 This website is made up of the following sections:
 * [**Features**](<#features>)
-* [**Home**](<#home>)
+ * [**Home**](<#home>)
    * [header](<#header>)
    * [logo](<#logo>)
    * [Footer](<#footer>)
-* [**Iphone**](<#Iphone>)
+ * [**Iphone**](<#Iphone>)
    * [header](<#header>)
    * main content
    * [Footer](<#footer>)         
-* [**Samsung**](<#samsung>)
+ * [**Samsung**](<#samsung>)
    * [header](<#header>)
    * main content
    * [Footer](<#footer>)         
 
-* [**Contact us**](<#contact>)
+ * [**Contact us**](<#contact>)
    * [header](<#header>)
    * [Footer](<#footer>)         
 
+ * [**Future Features**](<#Future-Features>)
+ * [**Testing**](<#testing>)
 
-
-
-# section 1
-
-## home
+*## home
 ![home](assets/image/home.png)
-# header
+*# header
 In the top section you can se the header links
 ![header](assets/image/header.png)
 
-# logo
+*# logo
 After this section is the main section of the page. 
 
 ![logo](assets/image/logo.png)
 
 You can see iphone logo and samsung logo if you click on the logos you will access the page that is relevant to the logo
 
-# footer
+*# footer
 In the bottom of the page is the footer.
 
 ![footer](assets/image/footer.png)
 
 In here you can find our social media that you can access.
 
-# section 2
 
-## Iphone
+*## Iphone
 
 ![iphone-page](assets/image/iphone-page.png)
 
 This page is about the new iphone. you will find some information of the new iphone 
 
-# section 3
 
-## Samsung
+*## Samsung
 
 ![samsung-page](assets/image/samsung-page.png)
 
 This page is all about samsung mobile featurs 
 
-# section 4
 
-## contact
+
+*## contact
 
 ![contact-page](assets/image/contact-page.png)
 
 This page is for the ways that you can contact us
 
-## Future Features
+*## Future Features
  * I will make a my site to be a shopping site so that anyone how wants cn buy samrtphone and accesories
  * I will add other brand to my site 
 
- # Technologies Used
-* [HTML5]- provides the content and structure for the website.
-* [CSS] - provides the styling.
-* [visual studio code] I have wrote the code in this program
-* [Github] - used to host and edit the website.
+ *# Technologies Used
+* HTML5- provides the content and structure for the website.
+* CSS - provides the styling.
+* visual studio code - I have wrote the code in this program
+* Github - used to host and edit the website.
 
-# Testing
+*# Testing
 
-# Deployment
-
-### **To deploy the project**
-The site was deployed to GitHub pages. The steps to deploy a site are as follows:
-  1. In the GitHub repository, navigate to the **Settings** tab.
-  2. Once in Settings, navigate to the **Pages** tab on the left hand side.
-  3. Under **Source**, select the branch to **master**, then click **save**.
-  4. Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
-
-![GitHub pages deployed image](assets/image/github-page.png)
-
-  The live link to the Github repository can be found here - https://github.com/Mtnikmaram/project1
-
-# lighthouse
+  # lighthouse
 
 Lighthouse is a feature of Google Chrome developer tools and is used to assess the performance of the website and its features.
 
@@ -128,6 +111,20 @@ After fixing some errors and also some unnecessary sections in index.html or sty
 
 persian mobile site was tested on the following browsers with no visible issues for the user. 
 Google Chrome and Mozilla Firefox. All the features was great.
+
+# Deployment
+
+### **To deploy the project**
+The site was deployed to GitHub pages. The steps to deploy a site are as follows:
+  1. In the GitHub repository, navigate to the **Settings** tab.
+  2. Once in Settings, navigate to the **Pages** tab on the left hand side.
+  3. Under **Source**, select the branch to **master**, then click **save**.
+  4. Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
+
+![GitHub pages deployed image](assets/image/github-page.png)
+
+  The live link to the Github repository can be found here - https://github.com/Mtnikmaram/project1
+
 
 # bugs
 I find some bugs in my code :
