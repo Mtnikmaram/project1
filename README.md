@@ -32,6 +32,12 @@ This website is made up of the following sections:
  * [**bugs**](<#bugs>)
  * [**credits**](<#credits>)
  * [Acknowledgements](<#acknowledgements>)
+
+## Site Structure
+
+Wawas Woods website has four pages. The [home page](index.html) is the default loading page, [Iphone](Iphone.html), [Samsung](sumsung.html) and [contact](contact.html) pages are all accessible primarily from the navigation menu. link to the contact page in the 'About-us' section to give the user some guidance to the next step of the journey. 
+
+
 ## Home
 
 ![home](assets/image/home.png)
