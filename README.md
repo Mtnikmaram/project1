@@ -24,29 +24,29 @@ This website is made up of the following sections:
 
  * [**Future Features**](<#Future-Features>)
  * [**Testing**](<#testing>)
-   *[lighthouse](<#lighthouse>)
-   *[HTML and CSS Validation](<#html-and-css-validation>)
-   *[Responsiveness Test](#responsiveness-test)
-   *[Browser Compatibility](<#browser-compatibility>)
+   * [lighthouse](<#lighthouse>)
+   * [HTML and CSS Validation](<#html-and-css-validation>)
+   * [Responsiveness Test](#responsiveness-test)
+   * [Browser Compatibility](<#browser-compatibility>)
  *[**Deployment**](<#deployment>)
  *[**bugs**](<#bugs>)
  *[**credits**](<#credits>)
 ## Home
-*### home
+
 ![home](assets/image/home.png)
 ## Header
-*### header
+
 In the top section you can se the header links
 ![header](assets/image/header.png)
 ## Logo
-*### logo
+
 After this section is the main section of the page. 
 
 ![logo](assets/image/logo.png)
 
 You can see iphone logo and samsung logo if you click on the logos you will access the page that is relevant to the logo
 ## Footer
-*### footer
+
 In the bottom of the page is the footer.
 
 ![footer](assets/image/footer.png)
