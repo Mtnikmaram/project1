@@ -28,9 +28,10 @@ This website is made up of the following sections:
    * [HTML and CSS Validation](<#html-and-css-validation>)
    * [Responsiveness Test](#responsiveness-test)
    * [Browser Compatibility](<#browser-compatibility>)
- *[**Deployment**](<#deployment>)
- *[**bugs**](<#bugs>)
- *[**credits**](<#credits>)
+ * [**Deployment**](<#deployment>)
+ * [**bugs**](<#bugs>)
+ * [**credits**](<#credits>)
+ * [Acknowledgements](<#acknowledgements>)
 ## Home
 
 ![home](assets/image/home.png)
@@ -54,14 +55,14 @@ In the bottom of the page is the footer.
 In here you can find our social media that you can access.
 
 ## Iphone
-*### Iphone
+
 
 ![iphone-page](assets/image/iphone-page.png)
 
 This page is about the new iphone. you will find some information of the new iphone 
 
 ## Samsung
-*### Samsung
+
 
 ![samsung-page](assets/image/samsung-page.png)
 
@@ -69,7 +70,7 @@ This page is all about samsung mobile featurs
 
 
 ## Contact
-*### contact
+
 
 ![contact-page](assets/image/contact-page.png)
 
@@ -85,7 +86,7 @@ This page is for the ways that you can contact us
 * [Github](https://github.com/) - used to host and edit the website.
 
 ## Testing
-*### Testing
+
 
 # lighthouse
 
@@ -119,7 +120,7 @@ persian mobile site was tested on the following browsers with no visible issues 
 Google Chrome and Mozilla Firefox. All the features was great.
 
 ## Deployment
-*### Deployment
+
 ### **To deploy the project**
 The site was deployed to GitHub pages. The steps to deploy a site are as follows:
   1. In the GitHub repository, navigate to the **Settings** tab.
@@ -131,9 +132,20 @@ The site was deployed to GitHub pages. The steps to deploy a site are as follows
 
   The live link to the Github repository can be found here - https://github.com/Mtnikmaram/project1
 
+### **To create a local clone of this project**
+The method from cloning a project from GitHub is below:
+
+1. Under the repository’s name, click on the **code** tab.
+2. In the **Clone with HTTPS** section, click on the clipboard icon to copy the given URL.
+![Cloning image](assets/images/clone.png)
+3. In your IDE of choice, open **Git Bash**.
+4. Change the current working directory to the location where you want the cloned directory to be made.
+5. Type **git clone**, and then paste the URL copied from GitHub.
+6. Press **enter** and the local clone will be created.
+
 
 ## bugs
-*### bugs
+
 I find some bugs in my code :
 * The most bug was using space in my file names of the images : so  i double check the codes 
 * I have forgotten to creat asset folder : this part was told from the mentor
@@ -141,9 +153,12 @@ I find some bugs in my code :
 * The display was not in form : I search the web to fix the issue
 
 ## credits
-*### credits
-The contect of the the site and the iamges is from gsmarena but i styled it my self 
+* The font came from [Google Fonts](https://fonts.google.com/).
+* The icons came from [Font Awesome](https://fontawesome.com/).
+* The form validation idea came from a [YouTube tutorial](https://www.youtube.com/watch?v=fNcJuPIZ2WE).
 
-I used google font for my site and and find the logo of my images in google search.
-
+The contect of the the site and the iamges is from [gsmarena](https://gsmarena.com/) but i styled it my self 
 I have got some ideas from love running and coffee coders project but i tried to write the codes by myself.
+
+# Acknowledgements
+The site was completed as a Portfolio 1 Project piece for the Full Stack Software Developer (e-Commerce) Diploma at the [Code Institute](https://codeinstitute.net/). As such I would like to thank my mentor [Precious Ijege](https://www.linkedin.com/in/precious-ijege-908a00168/), the Slack community, and all at the Code Institute for their help and support. Wawas Woods is a fictional company but it exists in everything but the business title. Currently it is more of a hobby!
