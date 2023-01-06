@@ -43,7 +43,7 @@ Wawas Woods website has four pages. The [home page](index.html) is the default l
 ![home](assets/image/home.png)
 ## Header
 
-In the top section you can se the header links
+In the top section you can see the header links
 ![header](assets/image/header.png)
 ## Logo
 
@@ -82,7 +82,7 @@ This page is all about samsung mobile featurs
 
 This page is for the ways that you can contact us
 ## Future Features
-*### Future Features
+
  * I will make a my site to be a shopping site so that anyone how wants cn buy samrtphone and accesories
  * I will add other brand to my site 
 
