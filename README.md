@@ -31,7 +31,7 @@ This website is made up of the following sections:
  * [**Deployment**](<#deployment>)
  * [**bugs**](<#bugs>)
  * [**credits**](<#credits>)
- * [Acknowledgements](<#acknowledgements>)
+ * [**Acknowledgements**](<#acknowledgements>)
 
 ## Site Structure
 
