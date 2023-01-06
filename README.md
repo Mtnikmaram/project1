@@ -6,7 +6,7 @@ persian mobile is a site that you can find information of mobile teck. <a href="
 # Contents
 
 This website is made up of the following sections:
-* [**Features**](<#features>)
+* [**Site Structure**](<#site-structure>)
  * [**Home**](<#home>)
    * [Header](<#header>)
    * [Logo](<#logo>)
