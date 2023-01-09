@@ -4,38 +4,45 @@ body {
   margin: 0;
   padding: 0;
 }
+
 .text-center {
     text-align: center;
     
 }
+
 /*header*/
 header {
     background-color: black;
 }
+
 #home {background-image: url('../image/header.webp');
         height: 150px;
 }
+
 /*nav*/
 nav {
   display: table;
   margin: auto;
 }
+
   nav a {
    text-decoration: none;
    color: rgb(6, 136, 16);
     display: inline-block;
    margin: 20px;   
    text-align: center;
-  }
+}
+
 nav a:hover {
     color: #000000;
    font-weight: bold;
-  }
+}
   
 .page-header {
 	height: 50vh;
 	background: center 75% /cover no-repeat;
 }
+
 #info-box {
   padding: 10px 5px 25px 5px;
 	border-radius: 8px;
@@ -47,6 +54,7 @@ nav a:hover {
   top: 20px;
   color:beige;
 }
+
 #logo {
   margin-left: 25%;
 
@@ -60,15 +68,17 @@ nav a:hover {
     padding: 2px;
     
 }
+
 .inline-image img{
   width: 75vw;
   margin-bottom: 10px;
   margin: auto;
- }
+}
   
 .text-uppercase {
     text-transform: uppercase;
 }
+
 /*footer*/
 footer {
     background-color: rgb(243, 218, 184);
@@ -76,18 +86,21 @@ footer {
     bottom: 0;
     right: 0;
     text-align: center;
-  }
-  #welcome{
+}
+
+#welcome{
     text-align: center;
     width: 75vw;
     margin: auto;
     font-family: 'Merienda One', 'Brush Script MT', cursive;
-  }
-  #sumsung-table {
+}
+
+#sumsung-table {
     width: 100%;
     background-color:  rgb(219, 244, 245);
-  }
- #sumsung-table th, #sumsung-table td {
+}
+
+#sumsung-table th, #sumsung-table td {
 	text-align: center;
 }
 
@@ -95,40 +108,41 @@ footer {
 	border: 1px solid gray;
 	padding: 1px;
 }
+
 #contact {
   border: none;
   margin-bottom: 50px;
   margin: 0 auto;
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
+
 #find {
   background-color: black;
   color: #fff;
 }
+
 /*screen sizeing*/
- @media screen and (max-width: 1200px) {
+@media screen and (max-width: 1200px) {
   nav a {       
     display: inline-block;
     font-size:16px;
     padding: 20px 15px;
     }
- 
   }
-  @media screen and (max-width: 950px) {
-
-   
-     nav a {       
+  
+@media screen and (max-width: 950px) {
+  
+  nav a {       
         font-size:13px;
         padding: 15px;
         }
-  } 
-    @media screen and (max-width: 450px) {
-     
-    
-      nav a {  
+} 
+@media screen and (max-width: 450px) {
+  
+  nav a {  
         display: block;     
         font-size:12px;
         padding: 10px;
         }
       
-    }
+}

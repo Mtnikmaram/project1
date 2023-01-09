@@ -7,6 +7,7 @@ persian mobile is a site that you can find information of mobile teck. <a href="
 
 This website is made up of the following sections:
 * [**Site Structure**](<#site-structure>)
+* [**Existing features**](<#existing-features>)
  * [**Home**](<#home>)
    * [Header](<#header>)
    * [Logo](<#logo>)
@@ -28,8 +29,8 @@ This website is made up of the following sections:
    * [HTML and CSS Validation](<#html-and-css-validation>)
    * [Responsiveness Test](#responsiveness-test)
    * [Browser Compatibility](<#browser-compatibility>)
- * [**Deployment**](<#deployment>)
  * [**bugs**](<#bugs>)
+ * [**Deployment**](<#deployment>)
  * [**credits**](<#credits>)
  * [**Acknowledgements**](<#acknowledgements>)
 
@@ -37,7 +38,7 @@ This website is made up of the following sections:
 
 Wawas Woods website has four pages. The [home page](index.html) is the default loading page, [Iphone](Iphone.html), [Samsung](sumsung.html) and [contact](contact.html) pages are all accessible primarily from the navigation menu. link to the contact page in the 'About-us' section to give the user some guidance to the next step of the journey. 
 
-
+## Existing features
 ## Home
 
 ![home](assets/image/home.png)
@@ -125,6 +126,15 @@ After fixing some errors and also some unnecessary sections in index.html or sty
 persian mobile site was tested on the following browsers with no visible issues for the user. 
 Google Chrome and Mozilla Firefox. All the features was great.
 
+
+## bugs
+
+I find some bugs in my code :
+* The most bug was using space in my file names of the images : so  i double check the codes 
+* I have forgotten to creat asset folder : this part was told from the mentor
+* The nav bar was not in the write color : I changed the color and the position
+* The display was not in form : I search the web to fix the issue
+
 ## Deployment
 
 ### **To deploy the project**
@@ -149,14 +159,6 @@ The method from cloning a project from GitHub is below:
 5. Type **git clone**, and then paste the URL copied from GitHub.
 6. Press **enter** and the local clone will be created.
 
-
-## bugs
-
-I find some bugs in my code :
-* The most bug was using space in my file names of the images : so  i double check the codes 
-* I have forgotten to creat asset folder : this part was told from the mentor
-* The nav bar was not in the write color : I changed the color and the position
-* The display was not in form : I search the web to fix the issue
 
 ## credits
 * The font came from [Google Fonts](https://fonts.google.com/).
