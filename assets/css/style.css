@@ -70,7 +70,7 @@ nav a:hover {
 }
 
 .inline-image img{
-  width: 75vw;
+  width: 75%;
   margin-bottom: 10px;
   margin: auto;
 }
@@ -90,13 +90,14 @@ footer {
 
 #welcome{
     text-align: center;
-    width: 75vw;
+    width: 75%;
     margin: auto;
     font-family: 'Open Sans', Arial, sans-serif, cursive;
 }
 
 #sumsung-table {
-    width: 100%;
+    width: 75%;
+    margin: auto;
     background-color:  rgb(219, 244, 245);
 }
 
@@ -136,6 +137,7 @@ footer {
         font-size:13px;
         padding: 15px;
         }
+  
 } 
 @media screen and (max-width: 450px) {
   
@@ -144,5 +146,5 @@ footer {
         font-size:12px;
         padding: 10px;
         }
-      
+  
 }
