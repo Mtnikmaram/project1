@@ -97,7 +97,7 @@ footer {
 
 #sumsung-table {
     width: 75%;
-    margin: auto;
+    margin: 0,auto;
     background-color:  rgb(219, 244, 245);
 }
 
@@ -124,10 +124,19 @@ footer {
 
 /*screen sizeing*/
 @media screen and (max-width: 1200px) {
+  body {
+    padding: 0%;
+  }
   nav a {       
     display: inline-block;
     font-size:16px;
     padding: 20px 15px;
+    }
+  #sumsung-table {
+      width: 100%;
+      clear: both;
+      height: 150px;
+      padding: 0;
     }
   }
   
@@ -137,14 +146,39 @@ footer {
         font-size:13px;
         padding: 15px;
         }
+  .tr{ 
+          display: table-row; 
+          padding: 1px;
+      }
+  .td{ 
+          display: table-cell;
+          padding: 5px;
+      }
+  .padding {
+          padding: 12px;
+          margin: auto;
+      }
+
   
 } 
-@media screen and (max-width: 450px) {
+@media screen and (max-width: 800px) {
   
-  nav a {  
-        display: block;     
-        font-size:12px;
-        padding: 10px;
-        }
-  
+  nav a  {
+    clear: left;
+    float: left;
+    margin-left: 30px;
+    margin-bottom: 20px;
+    line-height: 25px;
+}
+  #sumsung-table {
+    width: 35%;
+    clear: left;
+    float: left;
+    margin: 0;
+}
+  #logo {
+    width:75%;
+    margin: 0;
+  }
+
 }
