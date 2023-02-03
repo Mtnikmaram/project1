@@ -96,7 +96,7 @@ footer {
 }
 
 #sumsung-table {
-    width: 75%;
+    width: 100%;
     margin: 0,auto;
     background-color:  rgb(219, 244, 245);
 }
@@ -132,13 +132,7 @@ footer {
     font-size:16px;
     padding: 20px 15px;
     }
-  #sumsung-table {
-      width: 100%;
-      clear: both;
-      height: 150px;
-      padding: 0;
-    }
-  }
+}
   
 @media screen and (max-width: 950px) {
   
@@ -146,20 +140,6 @@ footer {
         font-size:13px;
         padding: 15px;
         }
-  .tr{ 
-          display: table-row; 
-          padding: 1px;
-      }
-  .td{ 
-          display: table-cell;
-          padding: 5px;
-      }
-  .padding {
-          padding: 12px;
-          margin: auto;
-      }
-
-  
 } 
 @media screen and (max-width: 800px) {
   
@@ -169,13 +149,14 @@ footer {
     margin-left: 30px;
     margin-bottom: 20px;
     line-height: 25px;
+  }
+#samsung-table {
+  position: absolute;
+  top: -9999px;
+  left: -9999px;
+  opacity: 0;
 }
-  #sumsung-table {
-    width: 35%;
-    clear: left;
-    float: left;
-    margin: 0;
-}
+
   #logo {
     width:75%;
     margin: 0;
