@@ -205,13 +205,7 @@ footer {
     margin-bottom: 20px;
     line-height: 25px;
   }
-  th {
-    position: absolute;
-    top: 1px;
-    left: 1px;
-    width: 45%;
-  }
-  
+   
   #logo {
     width:75%;
     margin: 0;
