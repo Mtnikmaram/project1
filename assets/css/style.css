@@ -94,7 +94,7 @@ footer {
     margin: auto;
     font-family: 'Open Sans', Arial, sans-serif, cursive;
 }
-
+ 
 #sumsung-table {
     width: 100%;
     margin: 0,auto;
@@ -134,14 +134,19 @@ footer {
     }
 }
   
-@media screen and (max-width: 950px) {
-  
+@media screen and (max-width:720px) {
   nav a {       
         font-size:13px;
         padding: 15px;
         }
+  th {
+        position: absolute;
+        top: 1px;
+        left: 1px;
+      }
+     
 } 
-@media screen and (max-width: 800px) {
+@media screen and (max-width:420px) {
   
   nav a  {
     clear: left;
@@ -150,13 +155,8 @@ footer {
     margin-bottom: 20px;
     line-height: 25px;
   }
-#samsung-table {
-  position: absolute;
-  top: -9999px;
-  left: -9999px;
-  opacity: 0;
-}
-
+ 
+  
   #logo {
     width:75%;
     margin: 0;
